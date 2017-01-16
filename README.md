@@ -1,1 +1,1 @@
-# SHAKE_4th
+#  4 D2 CAMPUS PARTNER  모임안내
