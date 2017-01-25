@@ -43,7 +43,7 @@
 
 ### 참석동아리 리스트
 
-동아리명(소속)|스터디분야|활동페이지
+동아리명|스터디분야|활동페이지
 --------------|----------|----------
 ALOHA|알고리즘|https://www.facebook.com/HYUALOHA
 ALGOS|알고리즘|http://cafe.naver.com/smalgos
