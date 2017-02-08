@@ -54,6 +54,7 @@ BARAM|로봇,라인트레이서|http://baram.kw.ac.kr
 BCSD Lab|공모전참가|-
 CLUG|리눅스,유닉스|http://clug.kr
 datin|데이터분석|-
+doit|SW/HW|-
 EOS|앱개발|http://hyu-eos.tistory.com/category
 GoN|보안|gon.kaist.ac.kr
 Guardian|보안|http://csguard.snu.ac.ke:9888
